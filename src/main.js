@@ -1,3 +1,4 @@
+// import '@/static/js/pc'
 import Vue from 'vue'
 import App from './App'
 
